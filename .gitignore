@@ -6,6 +6,7 @@ venv/
 *.docx
 *.html
 reflexion.md
+.~lock*
 
 # Archivos de Sistema
 .DS_Store
