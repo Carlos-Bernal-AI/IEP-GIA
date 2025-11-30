@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env*
+*.docx
+*.html
+reflexion.md
+
+# Archivos de Sistema
+.DS_Store
+
+# Archivos de Trabajo Personal (No entregar)
+CHECKLIST_ENTREGA.md
+guion_video.md
+working_model.txt
+debug_*.py
